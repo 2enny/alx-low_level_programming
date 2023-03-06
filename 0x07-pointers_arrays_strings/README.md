@@ -1,1 +1,1 @@
-0x07 pointers arrays strings
+This is my task file on 0x07 pointers arrays strings 
